@@ -1,0 +1,31 @@
+
+body{
+
+	background-image: url('ar.jpg');
+			}
+#ui {
+	background-color: #ffff;
+	padding: 30px;
+	margin-top:40px ;
+	border-radius: 10px;
+}
+
+#ui label {
+			color: #333;
+}
+#us{
+	width: 30%;
+	background-color: #ffff;
+	padding: 30px;
+	margin-top:20px ;
+	border-radius: 10px;
+
+}
+#ui input {
+
+	padding: 10px;
+
+}
+.fname{
+	padding: 30px;
+}

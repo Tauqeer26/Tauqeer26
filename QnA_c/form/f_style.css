@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+body{
+
+	background-image: url('ar.jpg');
+			}
+#ui {
+	background-color: #ffff;
+	padding: 30px;
+	margin-top:40px ;
+	border-radius: 10px;
+	border-style: solid ;
+	border-color: #888888;
+
+}
+
+#ui label {
+			color: black;
+			font-family: 'Poppins',sans-serif;
+
+}
+
+#us h1{
+
+	font-family: 'Poppins',sans-serif;
+	font-size: 60px;
+	color: black;
+	box-shadow: 3px 1px 4px 4px #888888;
+}
+#us h3{
+
+	font-family: 'Poppins',sans-serif;
+	font-size: 50px;
+	color: black;
+	font-style: italic;
+	
+}
+#us{
+
+	border-style: solid ;
+	border-color: #888888;
+	width: 40%;
+	height: 40%;
+	background-color: #ffff;
+	padding: 30px;
+	margin-top:20px ;
+	border-radius: 10px;
+
+}
+#ui input {
+
+	padding: 10px;
+
+}
+.fname{
+	padding: 30px;
+}
