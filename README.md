@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Computer Vision projects**
+- 👯 I’m open to collaboration
 
 - 📫 How to reach me **khantauqeerali26@gmail.com**
 
