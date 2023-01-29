@@ -2,9 +2,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 <img align="right" alt="coding" width="400" src= "https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on **Artificial Intelligence**
-
-- 👯 I’m open to collaboration
+- 👯 Open to collaboration
 
 - 📫 How to reach me **khantauqeerali26@gmail.com**
 
