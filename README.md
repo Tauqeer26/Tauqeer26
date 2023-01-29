@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's _KHAN TAUQEER ALI_</h1>
-<h3 align="center">Python Developer/A.I Engineer</h3>
+<h3 align="center">A.I Engineer</h3>
 <img align="right" alt="coding" width="400" src= "https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently working on **Artificial Intelligence**
