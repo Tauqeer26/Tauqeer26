@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, It's _KHAN TAUQEER ALI_</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h1 align="center">👋, It's _KHAN TAUQEER ALI_</h1>
+<h3 align="center">Data Scientist / Machine Learning Engineer</h3>
 <img align="right" alt="coding" width="400" src= "https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 👯 Open to collaboration
